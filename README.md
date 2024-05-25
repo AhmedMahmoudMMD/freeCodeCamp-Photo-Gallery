@@ -8,7 +8,7 @@ The Photo Gallery project showcases a collection of images in a grid layout. It 
 
 ## Live Demo
 
-You can view the live demo of this project [here](#).
+You can view the live demo of this project [here](https://ahmedmahmoudmmd.github.io/freeCodeCamp-Photo-Gallery/).
 
 ## Features
 
